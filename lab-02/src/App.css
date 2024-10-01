@@ -1,0 +1,55 @@
+.samosa {
+  height: 15em;
+  padding: 1.5em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.samosa:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
+.samosa:active {
+  transform: scale(0.95);
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+}
+
+.upgrade {
+  border: 1px solid rgba(153, 153, 153, 0.497);
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  margin-right: 25px;
+  width: 200px;
+  line-height: 0.5;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.3em 1em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  color: rgba(255, 255, 255, 0.87);
+  cursor: pointer;
+  margin-top: 10px;
+}

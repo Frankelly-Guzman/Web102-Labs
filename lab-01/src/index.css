@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+th {
+  width: 120px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+td {
+  padding: 5px;
+}
+
+.time {
+  height: 40px;
+}
+
+.Event {
+  width: 100px;
+}
+
+.Event h6,
+h5 {
+  line-height: 0px;
+  align-content: center;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.red {
+  background-color: #ff0000;
+}
+
+.blue {
+  background-color: lightskyblue;
+}
+
+.black {
+  background-color: #000000;
+}
+
+.yellow {
+  background-color: lightyellow;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: #6600cc;
+}
+
+.pink {
+  background-color: lightpink;
+}
+
+.brown {
+  background-color: burlywood;
+}
+
+.gray {
+  background-color: #808080;
+}
