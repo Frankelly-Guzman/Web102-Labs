@@ -26,7 +26,7 @@ Some examples of possible calendars include:
 
 Here are screenshots of the completed calendar with all required and stretch features:
 
-![Calendar View](./assets/Screenshot%202024-10-01%20at%209.03.47%20AM.png)
+![Calendar View](./assets/Screenshot1.png)
 
 ## Technologies Used
 
